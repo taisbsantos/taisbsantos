@@ -1,5 +1,3 @@
-![capa github](imagens/capa.png)  
-
 
 
 <center>
